@@ -1,0 +1,47 @@
+h1 {
+  color: var(--bs-red);
+  background-color: var(--bs-gray-dark);
+}
+
+hl {
+  color: var(--bs-red);
+  background-color: var(--bs-gray-dark);
+}
+
+.img:hover {
+  filter: brightness(100%);
+}
+
+, iconos {
+  color: #000000;
+  background-color: var(--bs-orange);
+}
+
+.iconos:hover {
+  color: var(--bs-red);
+  background-color: var(--bs-gray);
+}
+
+.btn {
+  color: var(--bs-orange);
+  background-color: #000000;
+}
+
+.container {
+  color: var(--bs-yellow);
+  background-color: var(--bs-gray-200);
+}
+
+.container:hover {
+  color: var(--bs-danger);
+  background-color: #e84949;
+}
+
+.card-img {
+  filter: grayscale(95%);
+}
+
+.card-img-fluid {
+  filter: brightness(100%);
+}
+
